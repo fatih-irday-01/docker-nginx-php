@@ -23,5 +23,11 @@ Docker Container'larının adı `Makefile` dosyasından `ApplicationName := fati
 
 <br />
 
-## Uygulamalar
+## Container'lar
 Uygulamalar `docker-composer.yml` dosyasından düzenlenebilir.
+
+<br />
+
+## Uygulamalar
+**PHP** uygulamalar `webSite` klasörü içerisinde yer alır.
+
